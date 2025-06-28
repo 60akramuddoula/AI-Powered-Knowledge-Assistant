@@ -1,0 +1,29 @@
+# fastapi
+# uvicorn
+# langchain
+# chromadb
+# pymupdf
+# python-docx
+# pypdf
+# ollama
+# requests
+# streamlit
+# pymupdf
+# python-docx
+# requests
+# langchain
+# chromadb
+# sentence-transformers
+# langchain-community
+
+
+
+pymupdf
+python-docx
+requests
+langchain
+langchain-community
+chromadb
+sentence-transformers
+ollama
+fastapi
