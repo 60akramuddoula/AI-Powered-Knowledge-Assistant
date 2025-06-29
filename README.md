@@ -1,6 +1,7 @@
 # AI-Powered-Knowledge-Assistant
 🚀 Introducing My New AI-Powered Knowledge Assistant! 🤖📚
 
+![](https://github.com/60akramuddoula/AI-Powered-Knowledge-Assistant/blob/main/Screenshot%202025-06-28%20183017.png)
 Tired of searching through endless documents to find the right information? I built a solution — an intelligent document-based Q&A assistant powered by 🔥 LangChain, Mistral via Ollama, and ChromaDB!
 
 🎯 What it does:
